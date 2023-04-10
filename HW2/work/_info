@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vrails
+Z0 !s110 1681099068
+!i10b 1
+!s100 odkP;<bA>Z[i^H:[LJG7`3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IfRYR7e<^57mebK_9IV8T61
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Graduate School/IC_DESIGN/HW2
+w1681098348
+8C:/Graduate School/IC_DESIGN/HW2/rails.v
+FC:/Graduate School/IC_DESIGN/HW2/rails.v
+!i122 146
+L0 1 119
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1681099068.000000
+!s107 C:/Graduate School/IC_DESIGN/HW2/rails.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Graduate School/IC_DESIGN/HW2/rails.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vtestfixture
+R0
+!i10b 1
+!s100 WO`lSVQ@`A>QdB7l2f7ni3
+R1
+IjeN^z^oO2o_cVk]UDOmJC2
+R2
+R3
+w1678769814
+8C:/Graduate School/IC_DESIGN/HW2/tb.v
+FC:/Graduate School/IC_DESIGN/HW2/tb.v
+!i122 147
+L0 7 137
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Graduate School/IC_DESIGN/HW2/tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Graduate School/IC_DESIGN/HW2/tb.v|
+!i113 1
+R6
+R7

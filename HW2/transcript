@@ -1,0 +1,229 @@
+vsim -gui work.testfixture
+# vsim -gui work.testfixture 
+# Start time: 11:57:46 on Apr 10,2023
+# Loading work.testfixture
+# Loading work.rails
+# Compile of rails.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Load canceled
+vsim -gui work.testfixture +notimingchecks
+# End time: 11:58:08 on Apr 10,2023, Elapsed time: 0:00:22
+# Errors: 0, Warnings: 2
+# vsim -gui work.testfixture "+notimingchecks" 
+# Start time: 11:58:08 on Apr 10,2023
+# Loading work.testfixture
+# Loading work.rails
+run -all
+# ----------------------
+# -- Simulation Start --
+# ----------------------
+# Pattern0: Expect= 0 Get= 0, PASS
+# 
+# Pattern1: Expect= 0 Get= 0, PASS
+# 
+# Pattern2: Expect= 0 Get= 0, PASS
+# 
+# Pattern3: Expect= 1 Get= 1, PASS
+# 
+# Pattern4: Expect= 0 Get= 0, PASS
+# 
+# Pattern5: Expect= 1 Get= 1, PASS
+# 
+# Pattern6: Expect= 0 Get= 0, PASS
+# 
+# Pattern7: Expect= 0 Get= 0, PASS
+# 
+# Pattern8: Expect= 1 Get= 1, PASS
+# 
+# Pattern9: Expect= 1 Get= 1, PASS
+# 
+# Pattern10: Expect= 1 Get= 1, PASS
+# 
+# Pattern11: Expect= 0 Get= 0, PASS
+# 
+# Pattern12: Expect= 0 Get= 0, PASS
+# 
+# Pattern13: Expect= 0 Get= 0, PASS
+# 
+# Pattern14: Expect= 0 Get= 0, PASS
+# 
+# Pattern15: Expect= 0 Get= 0, PASS
+# 
+# Pattern16: Expect= 1 Get= 1, PASS
+# 
+# Pattern17: Expect= 1 Get= 1, PASS
+# 
+# Pattern18: Expect= 0 Get= 0, PASS
+# 
+# Pattern19: Expect= 0 Get= 0, PASS
+# 
+# Pattern20: Expect= 0 Get= 0, PASS
+# 
+# Pattern21: Expect= 1 Get= 1, PASS
+# 
+# Pattern22: Expect= 0 Get= 0, PASS
+# 
+# Pattern23: Expect= 0 Get= 0, PASS
+# 
+# Pattern24: Expect= 0 Get= 0, PASS
+# 
+# Pattern25: Expect= 0 Get= 0, PASS
+# 
+# Pattern26: Expect= 0 Get= 0, PASS
+# 
+# Pattern27: Expect= 0 Get= 0, PASS
+# 
+# Pattern28: Expect= 1 Get= 1, PASS
+# 
+# Pattern29: Expect= 1 Get= 1, PASS
+# 
+# Pattern30: Expect= 0 Get= 0, PASS
+# 
+# Pattern31: Expect= 0 Get= 0, PASS
+# 
+# Pattern32: Expect= 0 Get= 0, PASS
+# 
+# Pattern33: Expect= 1 Get= 1, PASS
+# 
+# Pattern34: Expect= 0 Get= 0, PASS
+# 
+# Pattern35: Expect= 1 Get= 1, PASS
+# 
+# Pattern36: Expect= 1 Get= 1, PASS
+# 
+# Pattern37: Expect= 0 Get= 0, PASS
+# 
+# Pattern38: Expect= 1 Get= 1, PASS
+# 
+# Pattern39: Expect= 1 Get= 1, PASS
+# 
+# Pattern40: Expect= 0 Get= 0, PASS
+# 
+# Pattern41: Expect= 0 Get= 0, PASS
+# 
+# Pattern42: Expect= 0 Get= 0, PASS
+# 
+# Pattern43: Expect= 0 Get= 0, PASS
+# 
+# Pattern44: Expect= 0 Get= 0, PASS
+# 
+# Pattern45: Expect= 0 Get= 0, PASS
+# 
+# Pattern46: Expect= 0 Get= 0, PASS
+# 
+# Pattern47: Expect= 0 Get= 0, PASS
+# 
+# Pattern48: Expect= 0 Get= 0, PASS
+# 
+# Pattern49: Expect= 1 Get= 1, PASS
+# 
+# Pattern50: Expect= 1 Get= 1, PASS
+# 
+# Pattern51: Expect= 1 Get= 1, PASS
+# 
+# Pattern52: Expect= 0 Get= 0, PASS
+# 
+# Pattern53: Expect= 1 Get= 1, PASS
+# 
+# Pattern54: Expect= 0 Get= 0, PASS
+# 
+# Pattern55: Expect= 0 Get= 0, PASS
+# 
+# Pattern56: Expect= 0 Get= 0, PASS
+# 
+# Pattern57: Expect= 0 Get= 0, PASS
+# 
+# Pattern58: Expect= 1 Get= 1, PASS
+# 
+# Pattern59: Expect= 1 Get= 1, PASS
+# 
+# Pattern60: Expect= 0 Get= 0, PASS
+# 
+# Pattern61: Expect= 1 Get= 1, PASS
+# 
+# Pattern62: Expect= 0 Get= 0, PASS
+# 
+# Pattern63: Expect= 0 Get= 0, PASS
+# 
+# Pattern64: Expect= 1 Get= 1, PASS
+# 
+# Pattern65: Expect= 0 Get= 0, PASS
+# 
+# Pattern66: Expect= 0 Get= 0, PASS
+# 
+# Pattern67: Expect= 0 Get= 0, PASS
+# 
+# Pattern68: Expect= 0 Get= 0, PASS
+# 
+# Pattern69: Expect= 1 Get= 1, PASS
+# 
+# Pattern70: Expect= 1 Get= 1, PASS
+# 
+# Pattern71: Expect= 1 Get= 1, PASS
+# 
+# Pattern72: Expect= 1 Get= 1, PASS
+# 
+# Pattern73: Expect= 1 Get= 1, PASS
+# 
+# Pattern74: Expect= 1 Get= 1, PASS
+# 
+# Pattern75: Expect= 1 Get= 1, PASS
+# 
+# Pattern76: Expect= 1 Get= 1, PASS
+# 
+# Pattern77: Expect= 1 Get= 1, PASS
+# 
+# Pattern78: Expect= 0 Get= 0, PASS
+# 
+# Pattern79: Expect= 1 Get= 1, PASS
+# 
+# Pattern80: Expect= 1 Get= 1, PASS
+# 
+# Pattern81: Expect= 1 Get= 1, PASS
+# 
+# Pattern82: Expect= 1 Get= 1, PASS
+# 
+# Pattern83: Expect= 1 Get= 1, PASS
+# 
+# Pattern84: Expect= 1 Get= 1, PASS
+# 
+# Pattern85: Expect= 1 Get= 1, PASS
+# 
+# Pattern86: Expect= 1 Get= 1, PASS
+# 
+# Pattern87: Expect= 1 Get= 1, PASS
+# 
+# Pattern88: Expect= 0 Get= 0, PASS
+# 
+# Pattern89: Expect= 1 Get= 1, PASS
+# 
+# Pattern90: Expect= 1 Get= 1, PASS
+# 
+# Pattern91: Expect= 1 Get= 1, PASS
+# 
+# Pattern92: Expect= 1 Get= 1, PASS
+# 
+# Pattern93: Expect= 1 Get= 1, PASS
+# 
+# Pattern94: Expect= 1 Get= 1, PASS
+# 
+# Pattern95: Expect= 0 Get= 0, PASS
+# 
+# Pattern96: Expect= 0 Get= 0, PASS
+# 
+# Pattern97: Expect= 1 Get= 1, PASS
+# 
+# Pattern98: Expect= 1 Get= 1, PASS
+# 
+# Pattern99: Expect= 1 Get= 1, PASS
+# 
+# -----------------------------------------------------------
+# ----    Simulation finish,  ALL PASS,  Score = 100     ----
+# -----------------------------------------------------------
+# ** Note: $finish    : C:/Graduate School/IC_DESIGN/HW2/tb.v(139)
+#    Time: 96400 ns  Iteration: 1  Instance: /testfixture
+# 1
+# Break in Module testfixture at C:/Graduate School/IC_DESIGN/HW2/tb.v line 139
+# End time: 11:59:09 on Apr 10,2023, Elapsed time: 0:01:01
+# Errors: 0, Warnings: 1
