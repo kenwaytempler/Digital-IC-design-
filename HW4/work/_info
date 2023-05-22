@@ -1,0 +1,81 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Graduate School/IC_DESIGN/HW3
+vATCONV
+Z0 !s110 1684723540
+!i10b 1
+!s100 SH;J25CkjJjl@oCB:gkB81
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I40Z4ZB9RQGjUe^BZT_KZ11
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Graduate School/IC_DESIGN/HW4
+w1684308631
+8C:/Graduate School/IC_DESIGN/HW4/ATCONV.v
+FC:/Graduate School/IC_DESIGN/HW4/ATCONV.v
+!i122 468
+L0 2 224
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1684723540.000000
+!s107 C:/Graduate School/IC_DESIGN/HW4/ATCONV.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Graduate School/IC_DESIGN/HW4/ATCONV.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@a@t@c@o@n@v
+vhard_block
+!s110 1684308838
+!i10b 1
+!s100 [<Fk6AXK6QUG90Ji1DczO2
+R1
+ISGX;8mFgS6ReGFK?70lIX1
+R2
+R3
+w1684308660
+8C:/Graduate School/IC_DESIGN/HW4/ATCONV.vo
+FC:/Graduate School/IC_DESIGN/HW4/ATCONV.vo
+!i122 466
+L0 15439 34
+R4
+r1
+!s85 0
+31
+!s108 1684308838.000000
+!s107 C:/Graduate School/IC_DESIGN/HW4/ATCONV.vo|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Graduate School/IC_DESIGN/HW4/ATCONV.vo|
+!i113 1
+R6
+R7
+vtestfixture
+R0
+!i10b 1
+!s100 <mN8PJzQ]812DOb@mEOR31
+R1
+I=FUNMD:L6FYVofCXCd8Y[3
+R2
+R3
+w1684041434
+8C:/Graduate School/IC_DESIGN/HW4/testfixture.v
+FC:/Graduate School/IC_DESIGN/HW4/testfixture.v
+!i122 467
+L0 8 173
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Graduate School/IC_DESIGN/HW4/testfixture.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Graduate School/IC_DESIGN/HW4/testfixture.v|
+!i113 1
+R6
+R7

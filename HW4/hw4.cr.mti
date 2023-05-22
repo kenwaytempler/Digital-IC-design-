@@ -1,0 +1,15 @@
+{C:/Graduate School/IC_DESIGN/HW4/ATCONV.v} {1 {vlog -work work -stats=none {C:/Graduate School/IC_DESIGN/HW4/ATCONV.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ATCONV
+
+Top level modules:
+	ATCONV
+
+} {} {}} {C:/Graduate School/IC_DESIGN/HW4/testfixture.v} {1 {vlog -work work -stats=none {C:/Graduate School/IC_DESIGN/HW4/testfixture.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module testfixture
+
+Top level modules:
+	testfixture
+
+} {} {}}
