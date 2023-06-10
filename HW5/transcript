@@ -1,0 +1,36 @@
+# Compile of testfixture.v was successful.
+# Compile of demosaic.vo was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.testfixture -L C:/intelFPGA/20.1/modelsim_ase/altera/verilog/cycloneive -L C:/intelFPGA/20.1/modelsim_ase/altera/verilog/altera -sdftyp {/u_demosaic=C:/Graduate School/IC_DESIGN/HW5/demosaic_v.sdo}
+# vsim -gui work.testfixture -L C:/intelFPGA/20.1/modelsim_ase/altera/verilog/cycloneive -L C:/intelFPGA/20.1/modelsim_ase/altera/verilog/altera -sdftyp "/u_demosaic=C:/Graduate School/IC_DESIGN/HW5/demosaic_v.sdo" 
+# Start time: 10:52:35 on Jun 10,2023
+# Loading work.testfixture
+# Loading work.demosaic
+# Loading work.hard_block
+# Loading C:/intelFPGA/20.1/modelsim_ase/altera/verilog/cycloneive.cycloneive_io_obuf
+# Loading C:/intelFPGA/20.1/modelsim_ase/altera/verilog/cycloneive.cycloneive_io_ibuf
+# Loading C:/intelFPGA/20.1/modelsim_ase/altera/verilog/cycloneive.cycloneive_clkctrl
+# Loading C:/intelFPGA/20.1/modelsim_ase/altera/verilog/cycloneive.cycloneive_mux41
+# Loading C:/intelFPGA/20.1/modelsim_ase/altera/verilog/cycloneive.cycloneive_ena_reg
+# Loading C:/intelFPGA/20.1/modelsim_ase/altera/verilog/altera.dffeas
+# Loading C:/intelFPGA/20.1/modelsim_ase/altera/verilog/cycloneive.cycloneive_lcell_comb
+# SDF 2020.1 Compiler 2020.02 Feb 28 2020
+# 
+# Loading instances from C:/Graduate School/IC_DESIGN/HW5/demosaic_v.sdo
+# Loading instances from demosaic_v.sdo
+# Loading C:/intelFPGA/20.1/modelsim_ase/altera/verilog/altera.PRIM_GDFF_LOW
+# Loading timing data from C:/Graduate School/IC_DESIGN/HW5/demosaic_v.sdo
+# Loading timing data from demosaic_v.sdo
+# ** Note: (vsim-3587) SDF Backannotation Successfully Completed.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture File: C:/Graduate School/IC_DESIGN/HW5/testfixture.v
+run -all
+# ********************************************************************
+# **                        Simulation Start                        **
+# ********************************************************************
+# ********************************************************************
+# **               Simulation completed successfully!               **
+# ********************************************************************
+# ** Note: $finish    : C:/Graduate School/IC_DESIGN/HW5/testfixture.v(145)
+#    Time: 6805980 ns  Iteration: 1  Instance: /testfixture
+# 1
+# Break in Module testfixture at C:/Graduate School/IC_DESIGN/HW5/testfixture.v line 145
